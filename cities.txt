@@ -1,7 +1,8 @@
 Chennai-40
 Bangalore-50
 Hyderabad-60
-mumbai
-delhi
-goa
-kolkata
+mumbai-10
+delhi-20
+goa-30
+kolkata-40
+
