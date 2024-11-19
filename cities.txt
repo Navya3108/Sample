@@ -1,6 +1,6 @@
-Chennai
-Bangalore
-Hyderabad
+Chennai-40
+Bangalore-50
+Hyderabad-60
 mumbai
 delhi
 goa
